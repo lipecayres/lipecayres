@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lipecayres (Felipe Cayres)
 - 👀 I’m interested in learning programation and start a carreer in DEV!
-- 🌱 I’m currently learning python and trying to figure out if it will be my way at DEV!
+- 🌱 I’m currently learning python and trying to figure out if it will be my road at DEV!
 - 📫 How to reach me: 
     - instagram: @lipecayres
     -  e-mail: felipescayres@gmail.com
