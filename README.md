@@ -5,7 +5,7 @@ I've started my DEV journey in 2021 and I'm making my way to become a great Soft
 
 <div align="center">
 <a href="https://github.com/lipecayres">
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=default&include_all_commits=true&count_private=true"><img height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipecayres&layout=compact&langs_count=7&theme=default">
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
  </div>
 
 <div align='center'>
