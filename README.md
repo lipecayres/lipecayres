@@ -5,11 +5,11 @@ I've started my DEV journey in 2021 and I'm making my way to become a great Soft
 
 <div align="center">
 <a href="https://github.com/lipecayres">
-<img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=dark &include_all_commits=true&count_private=true">
+<img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
  </div>
 
 <div align='center'>
-<a height="150em" href="http://www.github.com/lipecayres"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lipecayres&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lipecayres&theme=react"/></a>
 </div>
 
 ### Tech Habilities
