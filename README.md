@@ -1,4 +1,4 @@
-# Hey! I'm Felipe, a Web Developer.
+# Hey! I'm Felipe, a Developer.
 I've started my DEV journey in 2021 and I'm making my way to become a great Software Engineer! Would you like to join me? 
   
 ### Profile
