@@ -3,12 +3,19 @@ I started my DEV journey in 2021 and I'm making my way to becoming a great Softw
   
 ### Profile
 
+<!--
+| [![Felipe Cayres GitHub stats](https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipecayres&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
+-->
+
+
+
 <div align="center">
 <a href="https://github.com/lipecayres">
 <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
- </div>
+ </div> 
 
-<!-- 
+  <!--   
 <div align='center'>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lipecayres&theme=react"/></a>
 </div>
