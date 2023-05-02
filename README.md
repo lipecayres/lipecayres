@@ -8,10 +8,12 @@ I started my DEV journey in 2021 and I'm making my way to becoming a great Softw
 <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
  </div>
 
+<!-- 
 <div align='center'>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lipecayres&theme=react"/></a>
 </div>
-
+-->
+  
 ### Tech Habilities
     
 <img alt="HTML" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img alt="CSS" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img alt="JavaScript" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="Python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img alt="R" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> <img alt="Git" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
