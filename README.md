@@ -1,12 +1,24 @@
-# Hey! I'm Felipe, a Developer.
-I started my DEV journey in 2021 and I'm making my way to becoming a great Software Engineer! Would you like to join me? 
-  
+<img align="center" src="Banner.png"/>
+
+<h1 align="center">Hey! I'm Felipe</h1>
+<h5 align="center">I am a passionate Full Stack developer and I'm making my way to become a great Software Engineer!
+</h5>
+
+- 💬 Ask me about **javascript and python**
+- 📫 How to reach me **felipescayres@gmail.com**
+- ⚡ Fun fact **I am always smiling**
+  <!--  Waiting update
+- 👨‍💻 You can find more info about me at [https://tarun-chawla.tech/](https://tarun-chawla.tech/)
+- 📝 I write blogs on [https://blog.tarun-chawla.tech/](https://blog.tarun-chawla.tech/)
+
+  -->
+
+
 ### Profile
 
-<!--
+
 | [![Felipe Cayres GitHub stats](https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipecayres&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
--->
 
 
 
