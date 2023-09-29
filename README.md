@@ -20,8 +20,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/lipecayres">
-  <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"></a>
+  <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipecayres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
 </div> 
 
   <!--   
