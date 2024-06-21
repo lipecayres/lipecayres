@@ -1,7 +1,7 @@
 <img align="center" src="Banner.png"/>
 
 <h1 align="center">Hey! I'm Felipe, a Full Stack Developer</h1>
-<h4 align="center">I am a passionate Full Stack developer making my way to become a great Software Engineer!</h4>
+<h4 align="center">I am a passionate Full Stack developer building innovative Web solutions!</h4>
 
   - 💬 Ask me about **javascript and python**
   - 📫 How to reach me: **felipescayres@gmail.com**
